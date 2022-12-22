@@ -1,0 +1,21 @@
+<nav>
+
+<ul>
+
+<li><a href="https://www.afroventures.co.za/media/img/5q/elephants_at_addo_1d968dbc.jpg">Home</a></li>
+
+<li><a href="https://www.afroventures.co.za/media/img/5q/elephants_at_addo_1d968dbc.jpg">About us</a></li>
+
+<li><a href="https://www.afroventures.co.za/media/img/5q/elephants_at_addo_1d968dbc.jpg" >Contact us</a></li>
+
+</ul>
+
+</nav>
+
+<h1>3 random images</h1>
+
+<img src="https://picsum.photos/id/123/200/300" alt="image-1" />
+
+<img src="https://picsum.photos/id/124/200/300" alt="image-2" />
+
+<img src="https://picsum.photos/id/125/200/300" alt="image-3" />
