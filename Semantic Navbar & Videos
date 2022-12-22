@@ -1,0 +1,29 @@
+<nav>
+
+<ul>
+
+<li><a href="https://www.afroventures.co.za/media/img/5q/elephants_at_addo_1d968dbc.jpg">Home</a></li>
+
+<li><a href="https://www.afroventures.co.za/media/img/5q/elephants_at_addo_1d968dbc.jpg">About us</a></li>
+
+<li><a href="https://www.afroventures.co.za/media/img/5q/elephants_at_addo_1d968dbc.jpg" >Contact us</a></li>
+
+</ul>
+
+</nav>
+
+<h1>3 random videos</h1>
+
+<video width="320" height="240" controls>
+  <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls>
+  <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<video width="320" height="240" controls>
+   <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
